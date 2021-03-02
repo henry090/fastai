@@ -6,6 +6,7 @@ articles:
   audio2tf: audio2tf.html
   basic_img_class: basic_img_class.html
   Basic_Tabular: Basic_Tabular.html
+  bayes_opt: bayes_opt.html
   callbacks: callbacks.html
   catalyst: catalyst.html
   custom_img: custom_img.html
@@ -25,7 +26,7 @@ articles:
   textclassification: textclassification.html
   textsummarize: textsummarize.html
   time_series: time_series.html
-last_built: 2021-03-01T15:33Z
+last_built: 2021-03-02T15:31Z
 urls:
   reference: https://henry090.github.io/fastai//reference
   article: https://henry090.github.io/fastai//articles
